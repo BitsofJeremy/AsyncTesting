@@ -10,7 +10,7 @@ Using the Starwars API as an example: https://swapi.dev/documentation
 
 Clone the repo
 
-	git clone https://gitlab.com/deafmice/asynctesting.git
+	git clone https://github.com/ephergent/asynctesting.git
 
 Create and source a virtualenv
 
